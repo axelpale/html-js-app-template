@@ -1,12 +1,18 @@
 # web-app-template
 
-A project template for [single-page web apps](https://en.wikipedia.org/wiki/Single-page_application) built with [webpack](https://webpack.js.org/) and written in [ES6](https://en.wikipedia.org/wiki/ECMAScript) in [StandardJS](https://standardjs.com/) style. The template aims to follow common practices of [Node.js package ecosystem](https://www.npmjs.com/) both in code structure and documentation.
+This is a template for a [single-page web app](https://en.wikipedia.org/wiki/Single-page_application) built with [webpack](https://webpack.js.org/) and written in [ES6](https://en.wikipedia.org/wiki/ECMAScript) in [StandardJS](https://standardjs.com/) style. The template aims to follow common practices of [Node.js package ecosystem](https://www.npmjs.com/) both in code structure and documentation.
 
-## Setup
+## Usage
+
+Either create a new repository via GitHub's *Use this template* feature or copy the files to your existing repository. Write your HTML in `index.html` and your JavaScript under `src/` directory beginning from `src/index.js`. The build bundles your JS files into `dist/main.js`. The bundle is run when you open the `index.html`.
 
 Install build dependencies:
 
     $ npm install
+
+Validate your code:
+
+    $ npm run lint
 
 Build the app:
 
