@@ -1,2 +1,2 @@
-const par = document.querySelector('p')
-par.innerHTML = 'Hello app, this is JS'
+const container = document.querySelector('#container')
+container.innerHTML = 'Hello app, this is JS'
