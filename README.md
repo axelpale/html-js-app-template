@@ -12,7 +12,7 @@ Build the app:
 
     $ npm run build
 
-Open the app: [index.html](index.html)
+Open the app in your browser: [index.html](index.html)
 
 ## Contribute
 
