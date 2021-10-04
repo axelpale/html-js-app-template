@@ -24,4 +24,10 @@
     "url": "https://github.com/axelpale/html-js-app-template/issues"
   },
   "homepage": "https://github.com/axelpale/html-js-app-template",
+  "devDependencies": {
+    "standard": "^16.0.4",
+    "tape": "^5.3.1",
+    "webpack": "^5.56.1",
+    "webpack-cli": "^4.8.0"
+  }
 }
