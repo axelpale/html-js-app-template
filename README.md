@@ -1,4 +1,4 @@
-# html-js-app-template
+# web-app-template
 
 A project template for single-page web apps built with [webpack](https://webpack.js.org/) and written in [ES6](https://en.wikipedia.org/wiki/ECMAScript) in [StandardJS](https://standardjs.com/) style. The template aims to follow common practices of Node.js ecosystem both in code structure and documentation.
 
@@ -16,7 +16,7 @@ Open the app: [index.html](index.html)
 
 ## Contribute
 
-Pull requests and [bug reports](https://github.com/axelpale/genversion/issues) are highly appreciated. Please test your contribution with the following scripts:
+Pull requests and [bug reports](https://github.com/axelpale/web-app-template/issues) are highly appreciated. Please test your contribution with the following scripts:
 
 Run test suite:
 
