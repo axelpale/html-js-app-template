@@ -1,6 +1,6 @@
 # web-app-template
 
-A project template for single-page web apps built with [webpack](https://webpack.js.org/) and written in [ES6](https://en.wikipedia.org/wiki/ECMAScript) in [StandardJS](https://standardjs.com/) style. The template aims to follow common practices of Node.js ecosystem both in code structure and documentation.
+A project template for [single-page web apps](https://en.wikipedia.org/wiki/Single-page_application) built with [webpack](https://webpack.js.org/) and written in [ES6](https://en.wikipedia.org/wiki/ECMAScript) in [StandardJS](https://standardjs.com/) style. The template aims to follow common practices of [Node.js package ecosystem](https://www.npmjs.com/) both in code structure and documentation.
 
 ## Setup
 
