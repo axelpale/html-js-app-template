@@ -28,3 +28,6 @@ package-lock.json
 
 # OS X Related
 *.DS_Store
+
+# Builds and generated code
+dist/*.js
