@@ -15,7 +15,10 @@
     "spa",
     "html"
   ],
-  "author": "Akseli Palén",
+  "author": {
+    "name": "Akseli Palén",
+    "email": "akseli.palen@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/axelpale/html-js-app-template/issues"
